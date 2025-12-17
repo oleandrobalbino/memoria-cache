@@ -1,5 +1,6 @@
-# Bem-vindo ao simulador de memória cache #
+# Simulador de memória cache #
 ![Java](https://img.shields.io/badge/Java-red)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-purple)
 ![Status](https://img.shields.io/badge/Educational-success)
 
 > Este projeto foi desenvolvido como parte da disciplina de **Organização e Arquitetura de Computadores**. Trata-se de uma aplicação em Java que simula o comportamento de uma memória Cache, permitindo a análise de desempenho (taxa de acertos e erros) através de diferentes tipos de mapeamento e políticas de substituição.
