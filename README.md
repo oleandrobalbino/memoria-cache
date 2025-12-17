@@ -52,3 +52,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 ## Autor
 
 - Leandro Balbino
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
