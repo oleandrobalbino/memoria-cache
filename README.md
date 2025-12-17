@@ -1,4 +1,6 @@
 # Bem-vindo ao simulador de memória cache #
+![Java](https://img.shields.io/badge/Java-red)
+![Status](https://img.shields.io/badge/Educational-success)
 
 Este projeto foi desenvolvido como parte da disciplina de **Organização e Arquitetura de Computadores**. Trata-se de uma aplicação em Java que simula o comportamento de uma memória Cache, permitindo a análise de desempenho (taxa de acertos e erros) através de diferentes tipos de mapeamento e políticas de substituição.
 
@@ -52,7 +54,3 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 ## Autor
 
 - Leandro Balbino
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Status](https://img.shields.io/badge/Concluído-brightgreen?style=for-the-badge)
