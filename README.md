@@ -1,4 +1,4 @@
-**Bem-vindo ao simulador de memória cache** 
+# Bem-vindo ao simulador de memória cache #
 
 Este projeto foi desenvolvido como parte da disciplina de **Organização e Arquitetura de Computadores**. Trata-se de uma aplicação em Java que simula o comportamento de uma memória Cache, permitindo a análise de desempenho (taxa de acertos e erros) através de diferentes tipos de mapeamento e políticas de substituição.
 
