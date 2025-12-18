@@ -5,6 +5,23 @@
 
 > Este projeto foi desenvolvido como parte da disciplina de **Organização e Arquitetura de Computadores**. Trata-se de uma aplicação em Java que simula o comportamento de uma memória Cache, permitindo a análise de desempenho (taxa de acertos e erros) através de diferentes tipos de mapeamento e políticas de substituição.
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./img/menu.png" alt="Menu" width="300"/>
+        <br>
+        <sub><b>Menu Inicial</b></sub>
+      </td>
+      <td align="center">
+        <img src="./img/execute.png" alt="Aplicação" width="300"/>
+        <br>
+        <sub><b>Aplicação rodando</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Sobre o Projeto
 
 O simulador suporta as seguintes configurações e algoritmos:
