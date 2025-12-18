@@ -71,8 +71,8 @@ public class Menu {
     }
 
     private void processar() {
-        ArrayList<String> teste = carregarArquivo("/data/teste_2.txt");
-        ArrayList<String> configuracao = carregarArquivo("/data/config.txt");
+        ArrayList<String> teste = carregarArquivo("/data/avaliacao.txt");
+        ArrayList<String> configuracao = carregarArquivo("/data/configavaliacao.txt");
 
         if (diretoRadioButton.isSelected()) {
             MapeamentoDireto mapeamentoDireto = new MapeamentoDireto(teste, configuracao);
