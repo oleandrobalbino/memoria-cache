@@ -48,7 +48,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 1. **Clone o repositório:**
 
    ```
-   git clone https://github.com/Hyocas/memoria-cache.git
+   git clone https://github.com/oleandrobalbino/memoria-cache.git
    ```
 
 2. **Navegue até o diretório do projeto:**
